@@ -35,13 +35,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        loadItems();
 
         //Reference(s)
         btnAdd = findViewById(R.id.btnAdd);
         etItem = findViewById(R.id.etItem);
         rvItems = findViewById(R.id.rvItems);
 
+        loadItems();
 
         // EDIT TEXT Click LISTENER
         ItemsAdapter.OnClickListener onClickListener = new ItemsAdapter.OnClickListener() {
