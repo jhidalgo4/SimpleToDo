@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ### Walk-through
 
-<img src="https://giphy.com/gifs/CKWtq81fp3NQ4yE4Bf" width=250><br>
+<img src="https://media.giphy.com/media/CKWtq81fp3NQ4yE4Bf/giphy.gif" width=250><br>
 
 ## Notes
 
