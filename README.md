@@ -1,5 +1,9 @@
 # Android Todo App - Joaquin
 
+### Walk-through
+
+<img src="https://media.giphy.com/media/CKWtq81fp3NQ4yE4Bf/giphy.gif" width=250><br>
+
 ## Overview:
 Android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -14,11 +18,6 @@ Challenges arrised durring the making of this app was when I delete a todo item 
 
 * [x] User can **single tap a todo item in the list and bring up an edit screen for the todo item**
 * [X] User can long hold-tap to delete item
-
-
-### Walk-through
-
-<img src="https://media.giphy.com/media/CKWtq81fp3NQ4yE4Bf/giphy.gif" width=250><br>
 
 
 ## License
