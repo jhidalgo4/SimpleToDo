@@ -4,7 +4,7 @@
 Android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 ### Notes
-Challenges arrised durring the making of this app was when I delete a todo item from the list, it may randomly crash the app and this issue has not been resolved yet and will fix this issue in future apps.
+Challenges arrised durring the making of this app was when I delete a todo item from the list, it may randomly crash the app and this issue has not been resolved yet and will fix this issue in future apps. One other challenge that completed was working with the recycler view list.
 
 ## User Stories - completed:
 
