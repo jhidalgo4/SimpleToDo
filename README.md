@@ -22,13 +22,10 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+### Walk-through
 
-<img src='[walkthrough.gif](https://media.giphy.com/media/CKWtq81fp3NQ4yE4Bf/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src="https://giphy.com/gifs/CKWtq81fp3NQ4yE4Bf" width=250><br>
 
 ## Notes
 
